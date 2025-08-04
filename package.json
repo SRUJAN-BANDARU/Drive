@@ -1,0 +1,26 @@
+{
+  "name": "drive",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000r\u0000i\u0000v\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRUJAN-BANDARU/Drive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SRUJAN-BANDARU/Drive/issues"
+  },
+  "homepage": "https://github.com/SRUJAN-BANDARU/Drive#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1"
+  }
+}
